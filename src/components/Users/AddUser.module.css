@@ -1,0 +1,37 @@
+.input {
+  /* margin: 2rem auto; */
+  padding: 1rem;
+  width: 90%;
+  max-width: 40rem;
+  margin-bottom: 10px;
+  padding-bottom: 20px;
+  position: relative;
+}
+
+.input label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  color: #777;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form{
+  padding: 30px 40px;
+}
+
+.input input {
+  display: block;
+  width: 100%;
+  border: 2px solid #f0f0f0;
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.input input:focus {
+  outline: 0;
+  border-color: #777;
+}

@@ -1,0 +1,20 @@
+.users {
+  margin: 2rem auto;
+  width: 90%;
+  max-width: 400px;
+}
+
+.users ul {
+  list-style: none;
+  padding: 1rem;
+}
+
+.users li {
+  display: block;
+  width: 100%;
+  border: 2px solid #f0f0f0;
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
